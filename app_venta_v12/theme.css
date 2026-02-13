@@ -1,0 +1,538 @@
+
+
+  .select2 {
+    font-family: 'FontAwesome'
+  }
+
+  
+.divbloqueo {
+width:100%!important;
+	height: 300px!important;
+	background-color: #D0D0D0;
+	margin:auto;
+	text-align:center;
+}
+
+select {
+    font-family: 'Lato', 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+.fa-select {
+    font-family: 'Lato', 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+#view_type_sorting{
+    font-family:"FontAwesome";
+    font-size:14px;
+  }
+  #view_type_sorting::before{
+    vertical-align:middle;
+  }
+
+.div1 {
+    background-color: #EEE;
+    text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	
+}
+.div1 h1 {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+.swall-overlay {
+    z-index: 100005;
+}
+.swal-modal {
+    z-index: 99999;
+}
+.custom-loader {
+  animation: none !important;
+  border-width: 0 !important;
+}
+.swal2-content {
+	z-index: 10000000;
+}
+.swal2-popup {
+	z-index: 10000000;
+}
+
+.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right):not(.swal2-grow-fullscreen) > .swal2-modal {
+    margin: auto;
+    z-index: 100;
+}
+
+.modal-cliente {
+    width: 40% !important;
+  }
+  @media (min-width: 768px) {
+    .modal-cliente {
+        width: 40% !important;
+      margin: 30px auto;
+    }
+}
+
+
+select {
+    z-index: 1000000;   
+}
+.login-page, .register-page {
+
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+
+
+.breadcrumb {
+    background-color: rgba(0,0,0,.03);
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+#suggestions {
+    box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
+    height: auto;
+    position: absolute;
+    top: 45px;
+    z-index: 9999;
+    width: 206px;
+}
+
+#suggestions .suggest-element {
+    background-color: #EEEEEE;
+    border-top: 1px solid #d6d4d4;
+    cursor: pointer;
+    padding: 8px;
+    width: 100%;
+    float: left;
+}
+
+
+.glyphicon-refresh-animate {
+    -animation: spin .7s infinite linear;
+    -webkit-animation: spin2 .7s infinite linear;
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg);}
+    to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg);}
+    to { transform: scale(1) rotate(360deg);}
+}
+.tile-stats h4 {
+    font-size: 14px;
+    margin-top: 0px;
+    color: #ffffff;
+  }
+
+.tile-stats h3 {
+    font-size: 14px;
+    margin-top: 0px;
+    color: #ffffff;
+  }
+
+  .tile-stats .num {
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .tile-stats {
+    padding: 10px;
+
+  }
+
+.alinearderecha {
+  text-align: right;
+}
+
+.botonpersonal {
+	width: 100%;
+	border: solid 1px #E0E0E0;
+	float: left;
+height: 42px;
+  padding: 10px 16px;
+}
+	
+.boton100 {
+	width: 100%;
+}	
+
+
+element.style {
+    background-color: rgb(51, 152, 219);
+}
+.card-category {
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 500;
+	overflow-y: auto;
+height: 550px;
+}
+.height-100 {
+    height: 100% !important;
+}
+.start-item {
+    justify-content: flex-start !important;
+}
+.end-item, .start-item {
+    display: flex !important;
+}
+.text-xs, .text-xs-500, .text-xs-600, .text-xs-700 {
+    color: #000;
+    font-family: Inter, sans-serif !important;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+
+.colorbase1 {
+    display:inline-block;
+    color:#444;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    cursor:pointer;
+    vertical-align:middle;
+    background-color: rgb(51, 152, 219);	
+}
+.colorbase1:active {
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.6);
+}
+
+.estilopost {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.pa-3 {
+    padding: 12px !important;
+	font-size: 13px;
+	
+	color: #FFFFFF;
+
+	
+	border-radius: 4px;
+    font-weight: bold;
+	width: 19.525%;
+	height: 110px!important;
+	float: left;
+	border: solid 1px #D9D9D9;
+
+}
+	
+	
+
+.m-1 {
+		margin: 0.2%;
+	}
+
+.pt-1 {
+		padding-top: 1%;
+	}
+	
+.pb-1 {
+		padding-bottom: 1%;
+	}
+	
+.pb-2 {
+		padding-bottom: 2%;
+	}
+.p-0 {
+    padding: 0px!important; 
+}
+.p-2 {
+    padding: 1%!important; 
+}
+
+.mb-1 {
+        margin-bottom: 1%;
+}
+.border {
+    border: solid 1px #D9D9D9;
+}
+
+
+.btn-group.special {
+  display: flex;
+}
+
+.special .btn {
+  flex: 1
+}
+	
+.card-detalle {
+    border-radius: 4px;
+    font-weight: 500;
+	overflow-y: auto;
+height: 400px;
+}
+	
+.card-subtotal {
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 500;
+	overflow-y: auto;
+ background-color: #9C5B5C;
+}
+
+.listarproducto {
+
+    display:inline-block;
+    color:#444;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    cursor:pointer;
+    vertical-align:middle;
+padding-bottom: 10px;
+
+    padding-left: 10px;
+    border-left: #00a651 solid 6px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 15px;
+}
+
+/*
+hr {
+border-bottom: solid 1px #e0e0e0;
+}
+	
+tbody tr button {
+    display: block;
+    float: right;
+  }
+*/  
+
+  div.addRow{
+    line-height: 45px;
+  background-color: #fff;
+  padding-left: 10px;
+  border-bottom: 1px solid;
+  border-top: 1px solid #e5e5e5;}
+
+  table#newRow {
+    display: none
+  }
+	
+.bordederecha {
+	border-right: solid 1px #AAAAAA;
+	}
+.bordesuperior {
+	border-top: solid 1px #AAAAAA;
+	}
+  
+.card-prepago {
+    border-radius: 4px;
+    color:#000000;
+    font-weight: 500;
+	overflow-y: auto;
+height: 550px;
+}
+	
+.payment-method-card {
+    align-items: center;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px -1px #2468930f, 0 4px 6px -1px #2468931a;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: lighter;
+}
+
+.card-pago {
+    border-radius: 4px;
+    color:#000000;
+    font-weight: 500;
+	overflow-y: auto;
+height: 470px;
+}
+	
+.card-pago h3 {
+margin: 0px!important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.custom-cancel-button {
+    font-size: 18px !important;
+    padding: 20px 20px !important;
+    background-color: #86ff33 !important;
+    color: #000000 !important;
+    border: 2px solid #ddd !important;
+    border-radius: 8px !important;
+    cursor: pointer !important;
+}
+
+
+/* === BOTÓN COBRAR CON TOTAL A LA DERECHA === */
+#btnCobrar {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* mantiene COBRAR centrado */
+  position: relative;
+  width: 100%;
+  font-weight: bold;
+  padding: 18px 24px;
+  font-size: 26px;
+}
+
+/* Texto COBRAR centrado */
+#btnCobrar .texto-cobrar {
+  flex: 1;
+  text-align: center;
+  font-weight: 700;
+}
+
+/* Monto total dentro del botón, alineado a la derecha y grande */
+#btnCobrar .monto-cobrar {
+  position: absolute;
+  right: 30px;
+  font-size: 30px;
+  font-weight: 800;
+  color: #fff;
+  background: transparent;
+  border: none;
+}
+
+/* Efecto visual cuando el total cambia */
+#btnCobrar .monto-cobrar.updated {
+  animation: resaltarMonto 0.45s ease;
+}
+
+@keyframes resaltarMonto {
+  0%   { transform: scale(1.15); color: #ffeb3b; }
+  100% { transform: scale(1); color: #fff; }
+}
+
+#tbllistado_articulo {
+  table-layout: fixed;
+  width: 100% !important;
+}
+
+#tbllistado_articulo th,
+#tbllistado_articulo td{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dt-right{ text-align:right; }
+
+
+
+/* Área drag & drop clickeable */
+.file-drop-zone {
+  cursor: pointer;
+}
+
+/* Ocultar botón Examinar por si acaso */
+.file-input .btn-file {
+  display: none !important;
+}
+
+.dataTables_wrapper,
+.table-responsive,
+.box-body {
+  overflow: visible !important;
+}
+
+
+/* Para que el menú no sea recortado por wrappers de DataTables */
+#wrap_tbllistado_articulo,
+#wrap_tbllistado_articulo .dataTables_wrapper,
+#wrap_tbllistado_articulo .dataTables_scroll,
+#wrap_tbllistado_articulo .dataTables_scrollBody {
+  overflow: visible !important;
+}
+
+/* Asegura que el menú se vea encima */
+.dropdown-menu {
+  z-index: 99999 !important;
+}
+
+.dropdown-menu-opciones{
+  z-index: 999999 !important;
+}
+
+.dropdown-menu-opciones, .dropdown-menu-cli{
+  min-width: 160px;
+  padding: 4px 0;
+}
+.dropdown-menu-opciones li a, .dropdown-menu-cli li a{
+  display:block;
+  padding: 6px 12px;
+  text-decoration:none;
+}
+.dropdown-menu-opciones li a:hover, .dropdown-menu-cli li a:hover{
+  background:#f5f5f5;
+}
+
+/* Dropdown Opciones - posicionamiento */
+.dropdown-menu-opciones{
+  /* overridden by PATCH 2026-01-31 */
+}
+
+
+/* Dropdown Opciones Artículo */
+.dropdown-opciones-art { position: relative !important; }
+
+.dropdown-opciones-art .dropdown-menu-opciones{
+  /* overridden by PATCH 2026-01-31 */
+}
+
+
+/* ===============================
+   PATCH 2026-01-31
+   Motivo:
+   - Ajuste de altura Select2 (medio)
+   - Mantener visible el campo de búsqueda (Select2 multiple)
+   - Fix menú OPCIONES (dropdown) para que se muestre (no absoluto con !important)
+   Aplica solo en formulario de Artículo
+   =============================== */
+
+#formularioregistros .select2-container .select2-selection--single{
+  height: 34px;
+}
+
+#formularioregistros .select2-container--default .select2-selection--single .select2-selection__rendered{
+  line-height: 32px;
+}
+
+#formularioregistros .select2-container--default .select2-selection--single .select2-selection__arrow{
+  height: 34px;
+}
+
+#formularioregistros .select2-container .select2-selection--multiple{
+  min-height: 34px;
+}
+
+#formularioregistros .select2-container--default .select2-selection--multiple .select2-selection__rendered{
+  padding-top: 2px;
+}
+
+#formularioregistros .select2-container--default .select2-selection--multiple .select2-search--inline .select2-search__field{
+  height: 26px;
+  line-height: 26px;
+  margin-top: 2px;
+}
+
+/* Dropdown Opciones: permitir que JS posicione en fixed y no se oculte por overflow */
+.dropdown-menu-opciones{
+  position: fixed;
+  z-index: 999999;
+  display: none;
+}
+
